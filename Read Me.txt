@@ -1,0 +1,8 @@
+1. Create a bot in LARK Group and copy the webhook. (Ref:https://www.larksuite.com/hc/en-US/articles/360048487736)
+2. Login to zabbix go to Administration> Media Type and create media type
+3. Name your media , put type as Webhook 
+4. open script copy the javascript provided .replace the webhook address with your webhook url from step number 1. Dont forget to update
+5. Go to Administration > Users click on your user name click on Media type add the newly created media 
+6. Click on Update.
+
+
